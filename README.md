@@ -1,6 +1,8 @@
 # CSC417 (Physics-based Animation) Final Project
 A full python implementation of the simulation technique described by the [”Meshless Deformations Based on Shape Matching”](http://graphics.stanford.edu/courses/cs468-05-fall/Papers/p471-muller.pdf) paper.
 
+[Video](https://bit.ly/3wKMyGK): bit.ly/3wKMyGK
+
 Requirements:
 - Python 3.7.6
 - numpy
